@@ -1,0 +1,190 @@
+{
+  "pays": [
+    {
+      "nom": "États-Unis",
+      "ville": "New York",
+      "population": 8398748,
+      "coordonnees": {
+        "latitude": 40.7128,
+        "longitude": -74.006
+      }
+    },
+    {
+      "nom": "Allemagne",
+      "ville": "Berlin",
+      "population": 3669491,
+      "coordonnees": {
+        "latitude": 52.52,
+        "longitude": 13.405
+      }
+    },
+    {
+      "nom": "France",
+      "ville": "Paris",
+      "population": 2148271,
+      "coordonnees": {
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      }
+    },
+    {
+      "nom": "Royaume-Uni",
+      "ville": "Londres",
+      "population": 8787892,
+      "coordonnees": {
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      }
+    },
+    {
+      "nom": "Japon",
+      "ville": "Tokyo",
+      "population": 13929286,
+      "coordonnees": {
+        "latitude": 35.6895,
+        "longitude": 139.6917
+      }
+    },
+    {
+      "nom": "Chine",
+      "ville": "Shanghai",
+      "population": 26317104,
+      "coordonnees": {
+        "latitude": 31.2304,
+        "longitude": 121.4737
+      }
+    },
+    {
+      "nom": "Corée du Sud",
+      "ville": "Séoul",
+      "population": 9720846,
+      "coordonnees": {
+        "latitude": 37.5665,
+        "longitude": 126.978
+      }
+    },
+    {
+      "nom": "Singapour",
+      "ville": "Singapour",
+      "population": 5612300,
+      "coordonnees": {
+        "latitude": 1.3521,
+        "longitude": 103.8198
+      }
+    },
+    {
+      "nom": "Australie",
+      "ville": "Sydney",
+      "population": 5312163,
+      "coordonnees": {
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      }
+    },
+    {
+      "nom": "Canada",
+      "ville": "Toronto",
+      "population": 2731571,
+      "coordonnees": {
+        "latitude": 43.6532,
+        "longitude": -79.3832
+      }
+    },
+    {
+      "nom": "Italie",
+      "ville": "Rome",
+      "population": 2872800,
+      "coordonnees": {
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      }
+    },
+    {
+      "nom": "Espagne",
+      "ville": "Madrid",
+      "population": 3223334,
+      "coordonnees": {
+        "latitude": 40.4168,
+        "longitude": -3.7038
+      }
+    },
+    {
+      "nom": "Pays-Bas",
+      "ville": "Amsterdam",
+      "population": 821752,
+      "coordonnees": {
+        "latitude": 52.3676,
+        "longitude": 4.9041
+      }
+    },
+    {
+      "nom": "Suède",
+      "ville": "Stockholm",
+      "population": 975904,
+      "coordonnees": {
+        "latitude": 59.3293,
+        "longitude": 18.0686
+      }
+    },
+    {
+      "nom": "Suisse",
+      "ville": "Zurich",
+      "population": 434008,
+      "coordonnees": {
+        "latitude": 47.3769,
+        "longitude": 8.5417
+      }
+    },
+    {
+      "nom": "Norvège",
+      "ville": "Oslo",
+      "population": 1041377,
+      "coordonnees": {
+        "latitude": 59.9139,
+        "longitude": 10.7522
+      }
+    },
+    {
+      "nom": "Singapour",
+      "ville": "Singapour",
+      "population": 5612300,
+      "coordonnees": {
+        "latitude": 1.3521,
+        "longitude": 103.8198
+      }
+    },
+    {
+      "nom": "Émirats arabes unis",
+      "ville": "Dubaï",
+      "population": 3135873,
+      "coordonnees": {
+        "latitude": 25.2769,
+        "longitude": 55.2962
+      }
+    },
+    {
+      "nom": "Qatar",
+      "ville": "Doha",
+      "population": 796947,
+      "longitude": 51.52
+    },
+    {
+      "nom": "Hong Kong",
+      "ville": "Hong Kong",
+      "population": 7392000,
+      "coordonnees": {
+        "latitude": 22.3193,
+        "longitude": 114.1694
+      }
+    },
+    {
+      "nom": "Koweït",
+      "ville": "Koweït",
+      "population": 1234827,
+      "coordonnees": {
+        "latitude": 29.3759,
+        "longitude": 47.9774
+      }
+    }
+  ]
+}
